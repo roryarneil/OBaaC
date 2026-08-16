@@ -32,7 +32,10 @@ Open [http://localhost:3000](http://localhost:3000) for the main page and [http:
 - TypeScript
 - Tailwind CSS v4
 
-## Scripts
+## Deployment
+
+See [DEPLOY.md](DEPLOY.md) for GitHub push, Vercel setup, and `obaac.org` DNS instructions. No environment variables are required.
+
 
 ```bash
 npm run dev      # Start development server
