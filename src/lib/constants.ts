@@ -2,9 +2,9 @@ export const siteConfig = {
   name: "OBaaC",
   fullName: "Open Banking as a Community",
   url: "https://obaac.org",
-  redditUrl: "https://reddit.com/r/OBaaC",
+  redditUrl: "https://www.reddit.com/r/OBaaC/",
   docsUrl: "#",
-  climateSaversUrl: "#",
+  climateSaversUrl: "https://climatesavers.io",
 };
 
 export const communityCards = [
