@@ -23,7 +23,6 @@ Open [http://localhost:3000](http://localhost:3000) for the main page and [http:
 | Asset | Path |
 |-------|------|
 | Coco Gothic Pro Bold | `public/fonts/Coco-Gothic-Pro-Bold.woff2` |
-| OBaaC Out-In Venn diagram | `public/images/obaac-out-in-model.png` |
 | Footprint illustration | `public/images/footprint-illustration.png` |
 
 ## Tech Stack
