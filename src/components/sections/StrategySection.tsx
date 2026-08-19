@@ -1,18 +1,11 @@
-import Image from "next/image";
+import YouTubeEmbed from "@/components/ui/YouTubeEmbed";
 
 export default function StrategySection() {
   return (
     <section className="py-16 md:py-24">
       <div className="mx-auto grid max-w-6xl items-center gap-12 px-6 md:grid-cols-2">
         <div className="order-2 md:order-1">
-          <Image
-            src="/images/obaac-out-in-model.png"
-            alt="OBaaC Out-In model diagram showing consumer-led transactional consensus and policy-driven systemic change converging through OBaaC"
-            width={800}
-            height={600}
-            className="w-full rounded-2xl"
-            priority
-          />
+          <YouTubeEmbed videoId="XyxsjLcXKkw" />
         </div>
         <div className="order-1 md:order-2">
           <p className="mb-3 text-sm font-medium uppercase tracking-wider text-foreground/60">

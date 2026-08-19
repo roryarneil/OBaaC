@@ -130,7 +130,7 @@ function GetInvolved() {
         <CTAButton href={siteConfig.redditUrl} external>
           Join r/OBaaC
         </CTAButton>
-        <CTAButton href={siteConfig.climateSaversUrl} variant="secondary">
+        <CTAButton href={siteConfig.climateSaversUrl} variant="secondary" external>
           Try Climate Savers
         </CTAButton>
       </div>
