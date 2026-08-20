@@ -13,8 +13,8 @@ export default function CommunitySection() {
             You&apos;re not doing this alone
           </h2>
           <p className="mx-auto max-w-2xl text-base leading-relaxed text-foreground/70 md:text-lg">
-            Every booking is part of a growing movement. More people choosing
-            overnight rail makes this choice easier, more normal, and more
+            Every transaction is part of a growing movement. More people making
+            green choices makes the transition easier, more normal, and more
             supported.
           </p>
         </div>

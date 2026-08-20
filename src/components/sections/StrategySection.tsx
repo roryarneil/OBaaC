@@ -5,7 +5,7 @@ export default function StrategySection() {
     <section className="py-16 md:py-24">
       <div className="mx-auto grid max-w-6xl items-center gap-12 px-6 md:grid-cols-2">
         <div className="order-2 md:order-1">
-          <YouTubeEmbed videoId="XyxsjLcXKkw" />
+          <YouTubeEmbed videoId="piJFpP_d6r4" />
         </div>
         <div className="order-1 md:order-2">
           <p className="mb-3 text-sm font-medium uppercase tracking-wider text-foreground/60">
