@@ -10,18 +10,19 @@ export const siteConfig = {
 export const communityCards = [
   {
     title: "Collective choice",
-    description: "Each booking signals demand for sustainable alternatives.",
+    description: "Each transaction signals demand for sustainable alternatives.",
     icon: "people" as const,
   },
   {
     title: "Growing momentum",
     description:
-      "Rising numbers create pressure for more green routes and services.",
+      "By switching demand we create consensus for greener policy for decarbonisation, and subsidies for adaptation & resilience.",
     icon: "trend" as const,
   },
   {
     title: "Shared values",
-    description: "Join thousands who believe travel can be better.",
+    description:
+      "Join millions of people who understand that we are more powerful as a collective, than we are as individuals.",
     icon: "heart" as const,
   },
 ];
