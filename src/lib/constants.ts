@@ -7,6 +7,19 @@ export const siteConfig = {
   climateSaversUrl: "https://climatesavers.io",
 };
 
+export const obaacIntro = {
+  home: {
+    title: "Welcome to r/OBaaC — Open Banking as a Community",
+    description:
+      "Welcome to r/OBaaC! This community is dedicated to pioneering Open Banking as a Community (OBaaC)—a new, bottom-up movement that turns consumer financial data into a powerful tool for climate action, accountability, and system change. Below is our comprehensive FAQ, detailing our philosophy, the security behind our technology, and how we are using open banking to rebuild collective climate power.",
+  },
+  faq: {
+    title: "Welcome to r/OBaaC — Open Banking as a Community",
+    description:
+      "Welcome to r/OBaaC! This community is dedicated to pioneering Open Banking as a Community (OBaaC)—a new, bottom-up movement that turns consumer financial data into a powerful tool for climate action, accountability, and system change.",
+  },
+} as const;
+
 export const communityCards = [
   {
     title: "Collective choice",

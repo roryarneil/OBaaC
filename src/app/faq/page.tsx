@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import FAQIntro from "@/components/sections/FAQIntro";
+import IntroSection from "@/components/sections/IntroSection";
 import FAQContent from "@/components/sections/FAQContent";
 
 export const metadata: Metadata = {
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 export default function FAQPage() {
   return (
     <>
-      <FAQIntro />
+      <IntroSection variant="faq" />
       <FAQContent />
     </>
   );
