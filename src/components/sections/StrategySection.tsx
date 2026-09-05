@@ -9,10 +9,10 @@ export default function StrategySection() {
         </div>
         <div className="order-1 md:order-2">
           <p className="mb-3 text-sm font-medium uppercase tracking-wider text-foreground/60">
-            The Strategy
+            The Philosophy
           </p>
           <h1 className="font-display mb-6 text-3xl leading-tight text-foreground md:text-4xl lg:text-5xl">
-            Why Politics Failed—and How We Flip the Model
+            How We Flip the Model
           </h1>
           <div className="space-y-4 text-base leading-relaxed text-foreground/80 md:text-lg">
             <p>
@@ -23,15 +23,15 @@ export default function StrategySection() {
               never arrives.
             </p>
             <p>
-              <strong>We are turning the arrows around.</strong>
+              <strong>We are taking that power back</strong>
             </p>
             <p>
-              OBaaC introduces the <strong>&ldquo;Out-In&rdquo; model</strong> of
+              OBaaC introduces an <strong>&ldquo;Out-In&rdquo; model</strong> of
               collective accountability. By securely linking our bank accounts,
-              we gather our everyday purchasing decisions—the choices we make on
+              we gather and aggregate our everyday purchasing decisions—the choices we make on
               the ground—and focus them inward as a unified, unignorable force.
-              This builds the scientific consensus and voter momentum needed to
-              force politicians to make bolder, faster climate policies.
+              Voting with our money through existing bank rails builds scientific and political
+              consensus to force politicians to make bolder, faster climate policies.
             </p>
           </div>
         </div>
