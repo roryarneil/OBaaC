@@ -9,9 +9,9 @@ export const siteConfig = {
 
 export const obaacIntro = {
   home: {
-    title: "Welcome to r/OBaaC — Open Banking as a Community",
+    title: "Welcome to OBaaC — Open Banking as a Community",
     description:
-      "Welcome to r/OBaaC! This community is dedicated to pioneering Open Banking as a Community (OBaaC)—a new, bottom-up movement that turns consumer financial data into a powerful tool for climate action, accountability, and system change. Below is our comprehensive FAQ, detailing our philosophy, the security behind our technology, and how we are using open banking to rebuild collective climate power.",
+      "This community is dedicated to pioneering a new, ground-up movement that turns consumer financial data into a powerful tool for transparency, accountability, and system change - from the outside in. Below is our philosophy, how it is applied, the security behind the technology, and how we are using open banking to show how individual action and agency, and collective action, are two sides of the same coin.",
   },
   faq: {
     title: "Welcome to r/OBaaC — Open Banking as a Community",
